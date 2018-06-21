@@ -2,14 +2,14 @@
 //  AppDelegate.swift
 //  AssignmentFour
 //
-//  Created by Dana  Zholdykhairova on 2/21/18.
-//  Copyright © 2018 Dana  Zholdykhairova. All rights reserved.
+//  Created by Toleukadyr Nurasyl on 2/21/18.
+//  Copyright © 2018 Toleukadyr Nurasyl. All rights reserved.
 //
 
 import UIKit
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+class AppDelegate: UIResponder, UIApplicationDelegate{
 
     var window: UIWindow?
 

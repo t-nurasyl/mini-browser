@@ -2,8 +2,8 @@
 //  AssignmentFourUITests.swift
 //  AssignmentFourUITests
 //
-//  Created by Dana  Zholdykhairova on 2/21/18.
-//  Copyright © 2018 Dana  Zholdykhairova. All rights reserved.
+//  Created by Toleukadyr Nurasyl on 2/21/18.
+//  Copyright © 2018 Toleukadyr Nurasyl. All rights reserved.
 //
 
 import XCTest
